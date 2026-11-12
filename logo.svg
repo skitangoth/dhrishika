@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" fill="none">
+  <circle cx="48" cy="48" r="43" stroke="#355f4b" stroke-width="2.5"/>
+  <circle cx="48" cy="48" r="35.5" stroke="#355f4b" stroke-opacity=".22"/>
+  <text x="20" y="64" fill="#355f4b" font-family="Georgia, 'Times New Roman', serif" font-size="48" letter-spacing="-8">SK</text>
+  <path d="M66 70h10v-9" stroke="#355f4b" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <circle cx="76" cy="21" r="5" fill="#e88762"/>
+</svg>
